@@ -25,6 +25,7 @@ class AddPlusColumnsToUsers extends Migration
      *
      * @return void
      */
+    
     public function down()
     {
         //
